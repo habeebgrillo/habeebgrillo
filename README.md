@@ -1,5 +1,5 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hello 👋, I'm DHabeeb Grillo </h1>
+![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif))
+<h1 align="center">Hello 👋, I'm Habeeb Grillo </h1>
 <!-- <h3 align="center">Full Stack Developer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
