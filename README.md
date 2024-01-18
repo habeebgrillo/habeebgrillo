@@ -1,10 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
 <h1 align="center">Hello 👋, I'm Habeeb Grillo </h1>
-<!-- <h3 align="center">Full Stack Developer</h3> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <h3 align="center"> A Full Stack Developer </h3> -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayesoro&label=Profile%20views&color=0e75b6&style=flat" alt="dayesoro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habeebgrillo&label=Profile%20views&color=0e75b6&style=flat" alt="habeebgrillo" /> </p>
 
 
 - 🔭 I’m currently working on **A Social App** 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **CI/CD, Devops, Docker, Kubernetes**
 
 
-- 📫 How to reach me **habeebgrillo@gmail.com**
+- 📫 Want to send an email? **habeebgrillo@gmail.com**
 
 - Check out my Portfolio **https://habeebgrillo.com/**
 
